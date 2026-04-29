@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:new_app/core/theme/app_theme.dart';
-import 'package:new_app/routes.dart';
+
 import 'package:new_app/screens/home/home_screen.dart';
 
 void main() {
