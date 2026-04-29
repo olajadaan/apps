@@ -3,8 +3,7 @@ import 'package:new_app/core/theme/app_colors.dart';
 import 'package:new_app/core/widgets/custom_text_field.dart';
 import 'package:new_app/core/widgets/loading_widget.dart';
 import 'package:new_app/screens/home/search.dart';
-//import '../../shared/widgets/custom_card.dart';
-//import '../../core/theme/app_colors.dart';
+
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
